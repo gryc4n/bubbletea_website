@@ -6,116 +6,78 @@ Strawberry +
 Raspberry +
 Blueberry +
 Blackberry +
-Cherry
-Watermelon
-Peach
-Lychee
-Pineapple
-Kiwi
-Apple
-Green Apple
-Grape
-Pear
-Apricot
-Plum
-Banana
-Melon
+Cherry +
+Watermelon +
+Peach +
+Lychee +
+Pineapple + 
+Kiwi +
+Green Apple +
+Grape + 
+Pear +
+Apricot +
+Melon +
+Aloe +
 
 
 🍋 Citrus
 
-Lemon
-Lime
-Orange
-Grapefruit
-Yuzu
-Kumquat
+Lemon +
+Lime +
+Orange +
+Grapefruit +
 
 🌴 Exotic
 
-Guava
-Dragon Fruit
-Papaya
-Coconut
-Longan
-Rambutan
-Mangosteen
-Jackfruit
+Guava +
+Dragon Fruit +
+Papaya +
+Coconut +
+Jackfruit +
+Pomegranate +
 
 🍓 Forestfruits
 
-Blackcurrant
-Cranberry
-Pomegranate
+Blackcurrant +
+Gooseberry +
 
-🍵 Tea
+🍵 Base
 
-Matcha
-Hojicha
-Jasmine
-Earl Grey
-Oolong
-Thai Tea
-Chai
-Black Tea
-Green Tea
-White Tea
-
-🥛 Milk
-
-Classic Milk Tea
-Milk Tea
-Brown Sugar Milk
-Brown Sugar Latte
-Black Milk Tea
-Thai Milk Tea
-Banana Milk
-Condensed Milk
+Matcha +
+Jasmine +
+Earl Grey +
+Oolong +
+Butterfly Tea +
+Chai +
+Black Tea +
+Green Tea +
+White Tea +
+Milk +
 
 🍮 Desserts
 
-Vanilla
-Caramel
-Salted Caramel
-Brown Sugar
-Honey
-Chocolate
-White Chocolate
-Dark Chocolate
-Toffee
-Butterscotch
-Cookies and Cream
-Tiramisu
-Cheesecake
-Creme Brulee
-Coffee
-Mocha
-Birthday Cake
-Red Velvet
-Bubblegum
-Cotton Candy
+Vanilla +
+Caramel +
+Brown Sugar +
+Chocolate +
+Coffee +
+Red Velvet +
+
 
 🌸 Flower
 
-Rose
-Lavender
-Hibiscus
-Sakura
-Elderflower
-Chamomile
+Rose +
+Lavender + 
+Hibiscus +
+Sakura +
 
 🌰 Nut
 
-Hazelnut
-Pistachio
-Almond
-Peanut Butter
-Black Sesame
-White Sesame
+Hazelnut +
+Pistachio +
 
 ✨ Premium
 
-Taro
-Ube
-Salted Honey
-Maple Syrup
+Taro +
+Ube +
+
