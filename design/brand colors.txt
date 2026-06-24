@@ -1,0 +1,7 @@
+brand colors
+
+Lavender #BDA8FF
+Mint #CDE6BC
+Cream #FAF3E9
+White #FFFFFF
+Charcoal #111111

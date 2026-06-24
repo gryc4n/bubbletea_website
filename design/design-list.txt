@@ -1,0 +1,162 @@
+# LUMI TEA - PAGES TO DESIGN
+
+## PUBLIC PAGES
+
+### 1. Landing Page (/)
+
+Sections:
+
+* Hero
+* Signature Drinks
+* Create Your Own Tea
+* Lumi Buddies Collection
+* About Us
+* Gallery
+* Footer
+
+Status: ✅ Completed
+
+---
+
+### 2. Full Menu (/menu)
+
+Features:
+
+* All drinks
+* Categories
+* Search bar
+* Filters
+* Sorting
+* Drink details
+* Add to cart
+
+Status: 🔜 To Design
+
+---
+
+### 3. Login (/login)
+
+Features:
+
+* Email
+* Password
+* Remember me
+* Forgot password
+* Login button
+* Link to Register
+
+Status: 🔜 To Design
+
+---
+
+### 4. Register (/register)
+
+Features:
+
+* Username
+* Email
+* Password
+* Confirm Password
+* Register button
+* Link to Login
+
+Status: 🔜 To Design
+
+---
+
+## USER PAGES
+
+### 5. User Dashboard (/dashboard)
+
+Sections:
+
+* User Profile
+* My Orders
+* Saved Drinks
+* Reward Points
+* Recent Activity
+
+Status: 🔜 To Design
+
+---
+
+### 6. Lumi Buddies Collection (/collection)
+
+Features:
+
+* All stickers
+* Locked / Unlocked state
+* Collection progress
+* Rewards overview
+* Search / Categories
+
+Status: 🔜 To Design
+
+---
+
+### 7. Checkout (/checkout)
+
+Features:
+
+* Order summary
+* Delivery information
+* Payment section
+* Order confirmation
+
+Status: 🔜 To Design
+
+---
+
+## ADMIN PAGES
+
+### 8. Admin Dashboard (/admin)
+
+Sections:
+
+* Analytics
+* Revenue statistics
+* Total orders
+* Total users
+* Recent orders
+
+Status: 🔜 To Design
+
+---
+
+### 9. Manage Drinks (/admin/drinks)
+
+Features:
+
+* Add drink
+* Edit drink
+* Delete drink
+* Search
+* Filters
+
+Status: 🔜 To Design
+
+---
+
+### 10. Manage Orders (/admin/orders)
+
+Features:
+
+* Orders table
+* Order details
+* Change status
+* Search orders
+
+Status: 🔜 To Design
+
+---
+
+### 11. Manage Users (/admin/users)
+
+Features:
+
+* User list
+* User details
+* Change role
+* Ban user
+
+Status: 🔜 To Design

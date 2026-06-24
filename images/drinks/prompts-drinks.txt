@@ -1,0 +1,98 @@
+Create a premium hero-quality product image for a bubble tea brand.
+
+Drink:
+[DRINK_NAME]
+
+Purpose:
+Product showcase for a modern premium bubble tea website.
+
+Style:
+
+- luxury beverage photography
+- premium Asian cafe branding
+- modern Japanese lifestyle aesthetic
+- high-end commercial advertising
+- clean contemporary design
+- Instagram-worthy product presentation
+- elegant and playful
+- premium bubble tea campaign
+
+Composition:
+
+A single bubble tea drink centered in the composition.
+
+The drink is the hero object.
+
+Use a transparent cup with visible ingredients.
+
+Beautifully layered colors and textures.
+
+Glossy tapioca pearls clearly visible.
+
+Floating ingredient-inspired decorative elements surrounding the drink.
+
+Subtle motion and depth.
+
+Color palette:
+
+Use the visual identity colors:
+
+- Lavender #BDA8FF
+- Mint Green #CDE6BC
+- Cream #FAF3E9
+- White #FFFFFF
+
+Additionally incorporate colors naturally associated with [DRINK_NAME].
+
+Environment:
+
+Bright airy studio environment.
+
+Soft luxury lighting.
+
+Clean premium atmosphere.
+
+Subtle floating bubbles.
+
+Tiny glossy pearls.
+
+Elegant particle details.
+
+Rendering:
+
+Ultra-realistic product photography.
+
+Luxury commercial beverage advertisement.
+
+High-end food photography.
+
+Cinematic lighting.
+
+Soft shadows.
+
+Crystal clear materials.
+
+Premium reflections.
+
+Shallow depth of field.
+
+Extremely detailed.
+
+Premium menu photography.
+
+Premium website hero image.
+
+Important:
+
+The drink must look delicious, refreshing and highly desirable.
+
+The image should feel suitable for a modern luxury bubble tea brand.
+
+No text.
+No typography.
+No logos.
+No labels.
+No branding on the cup.
+No watermark.
+
+Focus entirely on the drink and its flavor identity.
